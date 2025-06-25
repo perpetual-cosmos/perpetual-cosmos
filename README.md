@@ -85,11 +85,10 @@ When I’m not building user-friendly apps or refactoring like a madman, I’m p
 
 ### 🏅 Highlights & Achievements
 
-- ⭐ **Top 10% JavaScript** developer on HackerRank  
-- 💡 Built open-source components loved by 50+ devs, ⭐️ 100+ GitHub stars  
-- 🥇 **Hackathon Winner** — Designed a UI prototype adopted by multiple teams  
-- 🛠️ **10+ Open PRs** merged into real-world React projects  
-- 🎤 Ran a **React workshop** that made `useState` look fun (somehow)
+- ⭐ **5-Star C++ Coder on HackerRank
+- 💡 Cracked 300+ DSA Challenges on GeeksforGeeks  
+- 🥇 **2nd Place – National Children’s Science Congress  
+- 🎤 Top 10 Performer – Blockchain Course on Internshala
 
 ---
 
