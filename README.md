@@ -73,7 +73,7 @@ When I’m not building user-friendly apps or refactoring like a madman, I’m p
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=perpetual‑cosmos&theme=algolia&hide_border=true&background=00000000" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=perpetual-cosmos&theme=algolia&hide_border=true&background=00000000" />
 </p>
 
 <p align="center">
