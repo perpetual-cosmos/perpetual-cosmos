@@ -85,9 +85,9 @@ When I’m not building user-friendly apps or refactoring like a madman, I’m p
 
 ### 🏅 Highlights & Achievements
 
-- ⭐ **5-Star C++ Coder on HackerRank
+- ⭐ 5-Star C++ Coder on HackerRank
 - 💡 Cracked 300+ DSA Challenges on GeeksforGeeks  
-- 🥇 **2nd Place – National Children’s Science Congress  
+- 🥇 2nd Place – National Children’s Science Congress  
 - 🎤 Top 10 Performer – Blockchain Course on Internshala
 
 ---
